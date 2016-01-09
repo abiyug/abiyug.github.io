@@ -30,15 +30,15 @@ avatar: "/img/AbiyuGidayExport.jpg"
 navbar-links:
   Home: ""
   About Me: "aboutme"
-  Author's home: "http://deanattali.com"
+  Author's home: "http://abiyug.github.io"
   
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
-  email: "youremail@domain.com"
+  name: Abiyu Giday
+  email: "abiyu@antexusolutions.com"
   facebook: yourname  # eg. daattali
   github: yourname    # eg. daattali
   twitter: yourname   # eg. daattali
@@ -57,7 +57,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "abiyug.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
