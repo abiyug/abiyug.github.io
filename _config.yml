@@ -30,7 +30,9 @@ avatar: "/img/AbiyuGidayProfile.png"
 navbar-links:
   Home: ""
   About Me: "aboutme"
+  Test: "test"
   Author's home: "http://abiyug.github.io"
+nav-search: "search"
 
 # List of links in the navigation bar from daattali
 #navbar-links:
