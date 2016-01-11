@@ -31,6 +31,13 @@ navbar-links:
   Home: ""
   About Me: "aboutme"
   Author's home: "http://abiyug.github.io"
+
+# List of links in the navigation bar from daattali
+#navbar-links:
+#  Home: ""
+#  Projects: "projects"
+#  About Me / Contact: "aboutme"
+#nav-search: "search"
   
 # --- Footer options --- #
 
