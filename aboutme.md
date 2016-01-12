@@ -50,8 +50,8 @@ I am a retried soccer player that had palyed for my high school and college vars
 <span class="fa fa-anchor about-icon"></span>
 <strong>Volunteer:</strong> 
  <ul style="list-style-type:disc">
-    <li>Provide mentoring for several young students by providing them guidance,  training and provide internship opportunity.</li>
-     <li>Help my church with technology adaption that will help improve service.</li>
+    <li>Over the years I have provdded mentorship for several young professionals and students by providing them guidance,  training and provide internship opportunities.</li>
+     <li>Help my church with technology adaption that helps to improve service.</li>
    </ul> 
 </p>
 
