@@ -1,9 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: "Or: why you'd want to go on a date with me"
+subtitle: ""Change your thoughts, you change your world.""
 ---
-I am aspiring Data Scientist with domain expertise in communication networks. Since data is agnostic to industry classification, I can use my data analytics skills to help most commercial and none profit organizations. I am always looking for interesting/challenging opportunities to work on, so feel fee to contact me. At the bottom of every page I have my contact details. Check out the rest of my profile below.
+I am ascending Data Scientist with domain expertise in communication networks. Since data is agnostic to industry classification, I can use my data analytics skills to help most commercial and none profit organizations. I am always on the lookout for interesting/challenging opportunities to work on so feel fee to contact me. At the bottom of every page is my contact details. Check out the rest of my profile below.
 
 <div id="aboutme-section">
 <p class="about-text">
