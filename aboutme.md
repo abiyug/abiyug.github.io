@@ -15,13 +15,13 @@ I have spent the better part of the last couple of decades developing, supportin
 <p class="about-text">
 <span class="fa fa-ship about-icon"></span>
 <strong> Entrepreneur:</strong> 
-Along the way, I was lucky to have few of my own startup with varied success. My last company, antexusolutions, primarily delivered advanced IP based safety and security solutions using Cisco and VMware product portfolio.  Although it didn’t make it pass 3.5 years, the experience has given me exposure that can only be gained when the rubber meet the road.
+Along the way, I was lucky to have few of my own startup with varied success. My last company, antexusolutions, primarily delivered advanced IP based safety and security solutions using Cisco and VMware product portfolio.  Although it didn’t make it pass 3.5 years, the experience has given me exposure that can only be gained when the rubber meets the road.
 </p>
 
 <p class="about-text">
 <span class="fa fa-flask about-icon"></span>
 <strong> Data Analytics:</strong> 
-I had  the privilege of contributing one of the earliest (2007-2010) commercial data analytics product for a fortune 50 company that rolled out Intelligence Platform Analysis to help  customers progress to higher level of operational efficiency.    The product, which was fueled purely by data,  collected a set of macro level indicators and generated a disruption index, like FICO score, that measured customer operational effectiveness and provide benchmark comparisons for products, peers, and industry segment.  Keep on eye on my blog because I will share software code, solutions to problems and web based products I have developed in the past year and the those I will be developing in the coming months and years.
+I had  the privilege of contributing one of the earliest (2007-2010) commercial data analytics product for a fortune 50 company that rolled out Intelligence Platform Analysis to help  customers progress to higher level of operational efficiency.    The product, which was fueled purely by data,  collected a set of macro level indicators and generated a disruption index, like FICO score, that measured customer operational effectiveness and provide benchmark comparisons for products, peers, and industry segment.  Keep an eye on my blog because I will hope to share some of my software codes, solutions to real problems and web based products I have developed in the past year and the those I will be developing in the coming months and years. I will also share some tidbits that maybe helpful to others.
 </p>
 
 <p class="about-text">
