@@ -13,7 +13,7 @@ I have spent the better part of the last couple of decades developing, supportin
 </p>
 
 <p class="about-text">
-<span class="fa fa-briefcase about-icon"></span>
+<span class="fa fa-ship about-icon"></span>
 <strong> Entrepreneur:</strong> 
 Along the way, I was lucky to have few of my own startup with varied success. My last company, antexusolutions, primarily delivered advanced IP based safety and security solutions using Cisco and VMware product portfolio.  Although it didn’t make it pass 3.5 years, the experience has given me exposure that can only be gained when the rubber meet the road.
 </p>
@@ -34,16 +34,16 @@ I have three kids (two of them teenagers).  Until the age of 16 I grew up in <i>
 <span class="fa fa-graduation-cap about-icon"></span>
 <strong> Education:</strong> 
   <ul style="list-style-type:disc">
-   <li> I have a Bachelor of Science in Electrical Engineering.</li> 
-   <li>Completed 9 of the 10 Data Science specialization certificate course from <i>John Hopkins University</i> on <a href="https://www.coursera.org/specializations/jhu-data-science" target="_blank">Coursera</a>(2015).  The courses include from getting/cleaning data to analyzing and developing consumable web app.  Here is the full list of classes and description.</li>
-    <li>I was also one of the first bunch of Cisco certified Internetwork Experts attained in 1999.</li>
+   <li> Bachelor of Science in Electrical Engineering.</li> 
+   <li>I have Completed 9 of the 10 Data Science specialization certificate course from <i>John Hopkins University</i> on <a href="https://www.coursera.org/specializations/jhu-data-science" target="_blank">Coursera</a>(2015).  The courses include from getting/cleaning data to analyzing and developing consumable web applications.</li>
+    <li>I was also one of the first few  Cisco certified Internetwork Experts.  Attained in 1999.</li>
  </ul>
 </p>
 
 <p class="about-text">
 <span class="fa fa-futbol-o about-icon"></span>
 <strong>Hobbies:</strong> 
-  Like taking mostly nature pictures - maybe one day I can buy professional grade camera.  I enjoy golf, running cross country and am retried soccer player.  I played for my high school and college with a scholarship.  
+I am a retried soccer player that had palyed for my high school and college varsity teams.  I enjoy taking nature pictures, a round of golfand and running cross country. 
 </p>
 
 <p class="about-text">
