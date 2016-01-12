@@ -27,7 +27,7 @@ I had  the privilege of contributing to one of the earliest (2007-2010) commerci
 <p class="about-text">
 <span class="fa fa-male about-icon"></span>
 <strong> Personal:</strong> 
-I have three kids (two of them teenagers).  Until the age of 16 I grew up in <i>Addis Abeba, Ethiopia</i>. Migrated to US where I completed my high school and college in <i>Washington, DC</i>. I claim both Addis and DC as my hometown. I now live in Fairfax County, Virginia which considered suburb of Washington DC. 
+I have three kids (two of them teenagers).  Until the age of 16 I grew up in <i>Addis Abeba, Ethiopia</i>. Migrated to US where I completed my high school and college in <i>Washington, DC</i>. I claim both Addis and DC as my hometown. I now live in Fairfax County, Virginia a suburb of Washington DC. 
 </p>
 
 <p class="about-text">
