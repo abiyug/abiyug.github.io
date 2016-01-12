@@ -1,6 +1,6 @@
 ---
 layout: page
-title: test
+title: publication
 author: "Abiyu Giday"
 date: "September 18, 2015"
 output: 
