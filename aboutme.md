@@ -42,7 +42,7 @@ I have three kids (two of them teenagers).  Until the age of 16 I grew up in <i>
 
 <p class="about-text">
 <span class="fa fa-futbol-o about-icon"></span>
-<strong>Hobbies:</strong> 
+<strong>Hobby:</strong> 
 I am a retried soccer player that had palyed for my high school and college varsity teams.  I enjoy taking nature pictures, a round of golfand and running cross country. 
 </p>
 
