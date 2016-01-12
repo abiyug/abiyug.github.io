@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: "Change your thoughts, you change your world."
 ---
-I am ascending <stron>Data Scientist<stron> with domain expertise in communication networks. Since data is agnostic to industry classification, I can use my data analytics skills to help most commercial and none profit organizations. I am always on the lookout for interesting/challenging opportunities to work on so feel free to contact me. At the bottom of every page is my contact details. Check out the rest of my profile below.
+I am ascending <strong>Data Scientist</strong> with domain expertise in communication networks. Since data is agnostic to industry classification, I can use my data analytics skills to help most commercial and none profit organizations. I am always on the lookout for interesting/challenging opportunities to work on so feel free to contact me. At the bottom of every page is my contact details. Check out the rest of my profile below.
 
 <div id="aboutme-section">
 <p class="about-text">
@@ -35,7 +35,7 @@ I have three kids (two of them teenagers).  Until the age of 16 I grew up in <i>
 <strong> Education:</strong> 
   <ul style="list-style-type:disc">
    <li> Bachelor of Science in Electrical Engineering.</li> 
-   <li>I have Completed 9 of the 10 Data Science specialization certificate course from <i>John Hopkins University</i> on <a href="https://www.coursera.org/specializations/jhu-data-science" target="_blank">Coursera</a>(2015).  The courses include from getting/cleaning data to analyzing and developing consumable web applications.</li>
+   <li>I have Completed 9 of the 10 Data Science specialization certificate course from <i>John Hopkins University</i> on <a href="https://www.coursera.org/specializations/jhu-data-science" target="_blank">Coursera</a> (2015).  The courses include from getting/cleaning data to analyzing and developing consumable web applications.</li>
     <li>I was also one of the first few  Cisco certified Internetwork Experts.  Attained in 1999.</li>
  </ul>
 </p>
