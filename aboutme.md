@@ -3,13 +3,13 @@ layout: page
 title: About me
 subtitle: "Or: why you'd want to go on a date with me"
 ---
+I am aspiring Data Scientist with domain expertise in communication networks. Since data is agnostic to industry classification, I can use my data analytics skills to help most commercial and none profit organizations. I am always looking for interesting/challenging opportunities to work on, so feel fee to contact me. At the bottom of every page I have my contact details. Check out the rest of my profile below.
 
 <div id="aboutme-section">
-
 <p class="about-text">
 <span class="fa fa-globe about-icon"></span>
 <strong> Professional:</strong> 
-I’ve spent the better part of the last couple of decades developing, supporting, implementing and selling communication software and hardware solutions. I have seen the industry evolve from hardware driven to software driven, and now entering data driven age with Internet of Things leading the way.  I had exposure to global customer base with varied challenges, cultures and industries. 
+I have spent the better part of the last couple of decades developing, supporting, implementing and selling communication software and hardware solutions. I have seen the industry evolve from hardware driven to software driven, and now entering data driven age with Internet of Things leading the way.  I had exposure to global customer base with varied challenges, cultures and industries. 
 </p>
 
 <p class="about-text">
