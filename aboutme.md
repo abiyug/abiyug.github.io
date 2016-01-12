@@ -49,10 +49,8 @@ I am a retried soccer player that had palyed for my high school and college vars
 <p class="about-text">
 <span class="fa fa-anchor about-icon"></span>
 <strong>Volunteer:</strong> 
- <ul style="list-style-type:disc">
     <li>Provide mentoring for several young students by providing them guidance,  training and provide internship opportunity.</li>
      <li>Help my church with technology adaption that will help improve service.</li>
-   </ul> 
 </p>
 
 </div>
