@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: "Change your thoughts, you change your world."
 ---
-I am ascending Data Scientist with domain expertise in communication networks. Since data is agnostic to industry classification, I can use my data analytics skills to help most commercial and none profit organizations. I am always on the lookout for interesting/challenging opportunities to work on so feel fee to contact me. At the bottom of every page is my contact details. Check out the rest of my profile below.
+I am ascending <stron>Data Scientist<stron> with domain expertise in communication networks. Since data is agnostic to industry classification, I can use my data analytics skills to help most commercial and none profit organizations. I am always on the lookout for interesting/challenging opportunities to work on so feel fee to contact me. At the bottom of every page is my contact details. Check out the rest of my profile below.
 
 <div id="aboutme-section">
 <p class="about-text">
@@ -27,7 +27,7 @@ I had  the privilege of contributing one of the earliest (2007/2010) commercial 
 <p class="about-text">
 <span class="fa fa-male about-icon"></span>
 <strong> Personal:</strong> 
-I have three kids (two of them teenagers).  Until the age of 16 I grew up in Addis Abeba, Ethiopia. Migrated to US where I completed my high school and college in Washington, DC. I claim both Addis and DC as my hometown. I now live in Fairfax County, Virginia which considered suburb of Washington DC. 
+I have three kids (two of them teenagers).  Until the age of 16 I grew up in <i>Addis Abeba, Ethiopia</i>. Migrated to US where I completed my high school and college in <i>Washington, DC</i>. I claim both Addis and DC as my hometown. I now live in Fairfax County, Virginia which considered suburb of Washington DC. 
 </p>
 
 <p class="about-text">
@@ -35,7 +35,7 @@ I have three kids (two of them teenagers).  Until the age of 16 I grew up in Add
 <strong> Education:</strong> 
   <ul style="list-style-type:disc">
    <li> I have a bachelor of Science in Electrical Engineering.</li> 
-   <li>Completed 9 of the 10 Data Science specialization certificate course from John Hopkins University on Coursera (2015).  The courses include from getting/cleaning data to analyzing and developing consumable web app.  Here is the full list of classes and description.</li>
+   <li>Completed 9 of the 10 Data Science specialization certificate course from <i>John Hopkins University</i> on<a href="https://www.coursera.org/specializations/jhu-data-science" target="_blank">Coursera</a> Coursera (2015).  The courses include from getting/cleaning data to analyzing and developing consumable web app.  Here is the full list of classes and description.</li>
     <li>I was also one of the first bunch of Cisco certified Internetwork Experts attained in 1999.</li>
  </ul>
 </p>
@@ -43,7 +43,7 @@ I have three kids (two of them teenagers).  Until the age of 16 I grew up in Add
 <p class="about-text">
 <span class="fa fa-futbol-o about-icon"></span>
 <strong>Hobbies:</strong> 
-  Like taking, mostly nature, pictures - maybe one day I can buy professional grade camera.  I enjoy golf, running cross country and am retried soccer player.  Played at high school and college. I had scholarship for my skill in college,  so I consider my skill set pretty good ;-)
+  Like taking mostly nature pictures - maybe one day I can buy professional grade camera.  I enjoy golf, running cross country and am retried soccer player.  I played for my high school and college with a scholarship.  
 </p>
 
 <p class="about-text">
