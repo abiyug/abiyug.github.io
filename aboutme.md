@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: "Change your thoughts, you change your world."
 ---
-I am ascending <stron>Data Scientist<stron> with domain expertise in communication networks. Since data is agnostic to industry classification, I can use my data analytics skills to help most commercial and none profit organizations. I am always on the lookout for interesting/challenging opportunities to work on so feel fee to contact me. At the bottom of every page is my contact details. Check out the rest of my profile below.
+I am ascending <stron>Data Scientist<stron> with domain expertise in communication networks. Since data is agnostic to industry classification, I can use my data analytics skills to help most commercial and none profit organizations. I am always on the lookout for interesting/challenging opportunities to work on so feel free to contact me. At the bottom of every page is my contact details. Check out the rest of my profile below.
 
 <div id="aboutme-section">
 <p class="about-text">
@@ -21,7 +21,7 @@ Along the way, I was lucky to have few of my own startup with varied success. My
 <p class="about-text">
 <span class="fa fa-flask about-icon"></span>
 <strong> Data Analytics:</strong> 
-I had  the privilege of contributing one of the earliest (2007/2010) commercial data analytics product for a fortune 50 company that rolled out Intelligence Platform Analysis to help  customers progress to higher level of operational efficiency.    The product, which was fueled purely by data,  collected a set of macro level indicators and generated a disruption index, like  like FICO score, that measured customer operational effectiveness and provide benchmark comparisons for products, peers, and industry segment.  Keep on eye on my blog because I will share software code, solutions to problems and web based products I have developed in the past year and the those I will be developing in the coming months and years.
+I had  the privilege of contributing one of the earliest (2007/2010) commercial data analytics product for a fortune 50 company that rolled out Intelligence Platform Analysis to help  customers progress to higher level of operational efficiency.    The product, which was fueled purely by data,  collected a set of macro level indicators and generated a disruption index, like FICO score, that measured customer operational effectiveness and provide benchmark comparisons for products, peers, and industry segment.  Keep on eye on my blog because I will share software code, solutions to problems and web based products I have developed in the past year and the those I will be developing in the coming months and years.
 </p>
 
 <p class="about-text">
