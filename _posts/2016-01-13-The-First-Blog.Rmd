@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "First Blog!"
 author: "Abiyu Giday"
 date: "January 13, 2016"
