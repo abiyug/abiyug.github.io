@@ -2,7 +2,7 @@
 title: "First Blog!"
 author: "Abiyu Giday"
 date: "January 13, 2016"
-tags: jekyll, Data Science
+tags: jekyll, Data Science, r
 ---
 
 Most of my blogging activities will be on subjects related to data and Data Science tidbits, best practices and discoveries. 
