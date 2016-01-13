@@ -1,12 +1,13 @@
 ---
-title: "2016-01-13-First-Blog-Discuss-Data-Science"
+title: "First Blog!"
 author: "Abiyu Giday"
 date: "January 13, 2016"
-output: html_document
+published: True
+summary: Walkthrough of sparse matrices in R and basic use of the <b>glmnet</b> package. This will show how to create them, find the best probabilities through the glmnet model, and how a sparse matrix deals with categorical values.
+image: ../img/blog/First-Blog-Discuss-Data-Science/DataScienceProcess.png
 ---
 
 Most of my blogging activities will be on subjects related to data and Data Science tidbits, best practices and discoveries. 
-<br><br><br>
 
 <img src="https://qph.is.quoracdn.net/main-qimg-3504cc03d0a1581096eba9ef97cfd7eb?convert_to_webp=true" align="right" width="40%" height="45%" />
 
