@@ -15,5 +15,5 @@ It has been said that to be effective in _Data Science_,  one should start with 
 
 Lastly, but importantly, once the answer is obtained by training a model utilizing the appropriate machine learning algorithm given the question, it is advantageous to understand how the derived answer will be utlized and delivred. That is that, will an API key get generated and distributed to customers or internal staff. Should a web app get developed, using shiny for example,  or does it need to be hosted on web service providers such  y-hat and Microsoft Azure. 
 
-Signing off for now. See you on my next blog.
+Signing off for now. See you on my next blog!
 
