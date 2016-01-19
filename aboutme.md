@@ -43,14 +43,14 @@ I have three kids (two of them teenagers).  Until the age of 16 I grew up in <i>
 <p class="about-text">
 <span class="fa fa-futbol-o about-icon"></span>
 <strong>Hobby:</strong> 
-I am a retried soccer player that had palyed for my high school and college varsity teams, where I had scholarship.  I enjoy hiking and taking nature pictures. Play a round of golf and ran for fun. 
+I palyed varsity soccer for my high school and college. Earnning athletic scholarship for college team.  I enjoy hiking and taking nature pictures. Play round of golf and long distance running. 
 </p>
 
 <p class="about-text">
 <span class="fa fa-anchor about-icon"></span>
 <strong>Volunteer:</strong> 
  <ul style="list-style-type:disc">
-    <li>Over the years I have provdded mentorship to several young professionals and students, giving them guidance,  training and internship opportunities in my startups.</li>
+    <li>Over the years I've provdded mentorship to several young professionals and students giving them guidance,  training and internship opportunities in my startups.</li>
      <li>Help my church with technology adaption that helps to improve service.</li>
    </ul> 
 </p>
