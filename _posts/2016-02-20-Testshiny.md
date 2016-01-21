@@ -1,0 +1,34 @@
+---
+title: "Test"
+author: "Abiyu Giday"
+date: "January 20, 2016"
+output: html_document
+runtime: shiny
+---
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <script type="application/shiny-singletons"></script>
+  <script type="application/html-dependencies">json2[2014.02.04];jquery[1.11.0];shiny[0.12.2]</script>
+<script src="shared/json2-min.js"></script>
+<script src="shared/jquery.min.js"></script>
+<link href="shared/shiny.css" rel="stylesheet" />
+<script src="shared/shiny.min.js"></script>
+  <script src="rmd_resources/rmd_loader.js"></script>
+  <link href="rmd_resources/rmd_loader.css" rel="stylesheet"/>
+</head>
+<body>
+  <div>
+    <div data-display-if="!output.__reactivedoc__">
+      <div id="rmd_loader_wrapper">
+        <div id="rmd_loader" style="display: none">
+          <img src="rmd_resources/rmd_loader.gif"/>
+          <p>Loading</p>
+        </div>
+      </div>
+    </div>
+    <div id="__reactivedoc__" class="shiny-html-output"></div>
+  </div>
+</body>
+</html>
