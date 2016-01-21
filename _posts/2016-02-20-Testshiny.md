@@ -5,30 +5,51 @@ date: "January 20, 2016"
 output: html_document
 runtime: shiny
 ---
-<!DOCTYPE html>
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-  <script type="application/shiny-singletons"></script>
-  <script type="application/html-dependencies">json2[2014.02.04];jquery[1.11.0];shiny[0.12.2]</script>
-<script src="shared/json2-min.js"></script>
-<script src="shared/jquery.min.js"></script>
-<link href="shared/shiny.css" rel="stylesheet" />
-<script src="shared/shiny.min.js"></script>
-  <script src="rmd_resources/rmd_loader.js"></script>
-  <link href="rmd_resources/rmd_loader.css" rel="stylesheet"/>
-</head>
-<body>
-  <div>
-    <div data-display-if="!output.__reactivedoc__">
-      <div id="rmd_loader_wrapper">
-        <div id="rmd_loader" style="display: none">
-          <img src="rmd_resources/rmd_loader.gif"/>
-          <p>Loading</p>
-        </div>
-      </div>
-    </div>
-    <div id="__reactivedoc__" class="shiny-html-output"></div>
-  </div>
-</body>
-</html>
+
+This R Markdown document is made interactive using Shiny. Unlike the more traditional workflow of creating static reports, you can now create documents that allow your readers to change the assumptions underlying your analysis and see the results immediately. 
+
+To learn more, see [Interactive Documents](http://rmarkdown.rstudio.com/authoring_shiny.html).
+
+## Inputs and Outputs
+
+You can embed Shiny inputs and outputs in your document. Outputs are automatically updated whenever inputs change.  This demonstrates how a standard R plot can be made interactive by wrapping it in the Shiny `renderPlot` function. The `selectInput` and `sliderInput` functions create the input widgets used to drive the plot.
+
+```{r, echo=FALSE}
+inputPanel(
+  selectInput("n_breaks", label = "Number of bins:",
+              choices = c(10, 20, 35, 50), selected = 20),
+  
+  sliderInput("bw_adjust", label = "Bandwidth adjustment:",
+              min = 0.2, max = 2, value = 1, step = 0.2)
+)
+
+renderPlot({
+  hist(faithful$eruptions, probability = TRUE, breaks = as.numeric(input$n_breaks),
+       xlab = "Duration (minutes)", main = "Geyser eruption duration")
+  
+  dens <- density(faithful$eruptions, adjust = input$bw_adjust)
+  lines(dens, col = "blue")
+})
+```
+
+## Embedded Application
+
+It's also possible to embed an entire Shiny application within an R Markdown document using the `shinyAppDir` function. This example embeds a Shiny application located in another directory:
+
+```{r, echo=FALSE}
+shinyAppDir(
+  system.file("examples/06_tabsets", package="shiny"),
+  options=list(
+    width="100%", height=550
+  )
+)
+```
+
+Note the use of the `height` parameter to determine how much vertical space the embedded application should occupy.
+
+You can also use the `shinyApp` function to define an application inline rather then in an external directory.
+
+In all of R code chunks above the `echo = FALSE` attribute is used. This is to prevent the R code within the chunk from rendering in the document alongside the Shiny components.
+
+
+
