@@ -1,0 +1,17 @@
+---
+title: "Data Table"
+author: "Abiyu Giday"
+date: "January 21, 2016"
+output: html_document
+---
+###Test DT
+
+This is the table.
+
+```{r sdata,results="asis",  message=FALSE }
+library(dplyr)
+library(car)
+library(knitr)
+library(DT)
+datatable(cars)
+```
