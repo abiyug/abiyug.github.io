@@ -1,0 +1,131 @@
+<!doctype HTML>
+<meta charset = 'utf-8'>
+<html>
+  <head>
+    <link rel='stylesheet' href='//cdnjs.cloudflare.com/ajax/libs/nvd3/1.1.15-beta/nv.d3.min.css'>
+    
+    <script src='//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js' type='text/javascript'></script>
+    <script src='//d3js.org/d3.v3.min.js' type='text/javascript'></script>
+    <script src='//cdnjs.cloudflare.com/ajax/libs/nvd3/1.1.15-beta/nv.d3.min.js' type='text/javascript'></script>
+    <script src='//nvd3.org/assets/lib/fisheye.js' type='text/javascript'></script>
+    
+    <style>
+    .rChart {
+      display: block;
+      margin-left: auto; 
+      margin-right: auto;
+      width: 800px;
+      height: 400px;
+    }  
+    </style>
+    
+  </head>
+  <body >
+    
+    <div id = 'chart157937443d27' class = 'rChart nvd3'></div>    
+    <script type='text/javascript'>
+ $(document).ready(function(){
+      drawchart157937443d27()
+    });
+    function drawchart157937443d27(){  
+      var opts = {
+ "dom": "chart157937443d27",
+"width":    800,
+"height":    400,
+"x": "rank",
+"y": "salary",
+"group": "sex",
+"type": "multiBarChart",
+"id": "chart157937443d27" 
+},
+        data = [
+ {
+ "sex": "Female",
+"rank": "AsstProf",
+"salary": 78049.90909091,
+"yrs.service": 2.545454545455 
+},
+{
+ "sex": "Female",
+"rank": "AssocProf",
+"salary":        88512.8,
+"yrs.service":           11.5 
+},
+{
+ "sex": "Female",
+"rank": "Prof",
+"salary": 121967.6111111,
+"yrs.service": 17.11111111111 
+},
+{
+ "sex": "Male",
+"rank": "AsstProf",
+"salary": 81311.46428571,
+"yrs.service": 2.339285714286 
+},
+{
+ "sex": "Male",
+"rank": "AssocProf",
+"salary":  94869.7037037,
+"yrs.service": 12.03703703704 
+},
+{
+ "sex": "Male",
+"rank": "Prof",
+"salary": 127120.8225806,
+"yrs.service": 23.22983870968 
+} 
+]
+  
+      if(!(opts.type==="pieChart" || opts.type==="sparklinePlus" || opts.type==="bulletChart")) {
+        var data = d3.nest()
+          .key(function(d){
+            //return opts.group === undefined ? 'main' : d[opts.group]
+            //instead of main would think a better default is opts.x
+            return opts.group === undefined ? opts.y : d[opts.group];
+          })
+          .entries(data);
+      }
+      
+      if (opts.disabled != undefined){
+        data.map(function(d, i){
+          d.disabled = opts.disabled[i]
+        })
+      }
+      
+      nv.addGraph(function() {
+        var chart = nv.models[opts.type]()
+          .width(opts.width)
+          .height(opts.height)
+          
+        if (opts.type != "bulletChart"){
+          chart
+            .x(function(d) { return d[opts.x] })
+            .y(function(d) { return d[opts.y] })
+        }
+          
+         
+        chart
+  .color([ "Blue", "Orange" ])
+          
+        
+
+        
+        
+        
+      
+       d3.select("#" + opts.id)
+        .append('svg')
+        .datum(data)
+        .transition().duration(500)
+        .call(chart);
+
+       nv.utils.windowResize(chart.update);
+       return chart;
+      });
+    };
+</script>
+    
+    <script></script>    
+  </body>
+</html>
