@@ -8,8 +8,6 @@ I am ascending <i>Data Scientist</i> with domain expertise in communication netw
 
 <a href="https://abiyug.github.io/abiyucv/abiyucv.html" target="_blank">My Resume</a>
 
-My CV https://abiyug.github.io/abiyucv/abiyucv.html
-
 <div id="aboutme-section">
 <p class="about-text">
 <span class="fa fa-globe about-icon"></span>
