@@ -6,6 +6,10 @@ tags: [Abiyu Giday, Abiyu, ggplot, analytics, Data Science]
 ---
 I am ascending <i>Data Scientist</i> with domain expertise in communication networks. Since data is agnostic to industry classification, I can use my data analytics skills to help most commercial and non profit organizations. I am always on the lookout for interesting/challenging opportunities to work on so feel free to contact me. At the bottom of every page are my contact details. Check out the rest of my profile below.
 
+<a href="https://abiyug.github.io/abiyucv/abiyucv.html" target="_blank">My Resume</a>
+
+My CV https://abiyug.github.io/abiyucv/abiyucv.html
+
 <div id="aboutme-section">
 <p class="about-text">
 <span class="fa fa-globe about-icon"></span>
@@ -36,7 +40,7 @@ I have three kids (two of them teenagers).  Until the age of 16 I grew up in <i>
 <strong> Education:</strong> 
   <ul style="list-style-type:disc">
    <li> Bachelor of Science in Electrical Engineering.</li> 
-   <li>I have Completed 9 of the 10 Data Science specialization certificate course from <i>John Hopkins University</i> on <a href="https://www.coursera.org/specializations/jhu-data-science" target="_blank">Coursera</a> (2015).  The courses include from getting/cleaning data to analyzing and developing consumable web applications.</li>
+   <li>I have Completed 9 of the 10 Data Science specialization certificate course from <i>John Hopkins University</i> on <a href="https://www.coursera.org/specializations/jhu-data-science" target="_blank">Coursera</a> (04/2016).  The courses include from getting/cleaning data to analyzing and developing consumable web applications.</li>
     <li>I was also one of the first few  Cisco certified Internetwork Experts.  Attained in 1999.</li>
  </ul>
 </p>
