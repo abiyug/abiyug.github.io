@@ -6,7 +6,7 @@ tags: [Abiyu Giday, Abiyu, ggplot, analytics, Data Science]
 ---
 I am ascending <i>Data Scientist</i> with domain expertise in communication networks. Since data is agnostic to industry classification, I can use my data analytics skills to help most commercial and non profit organizations. I am always on the lookout for interesting/challenging opportunities to work on so feel free to contact me. At the bottom of every page are my contact details. Check out the rest of my profile below.
 
-<a href="https://abiyug.github.io/abiyucv/abiyucv.html" target="_blank">My Resume</a>
+<a href ="https://www.linkedin.com/in/abiyugiday"target="_blank">My Resume</a>  
 
 <div id="aboutme-section">
 <p class="about-text">
