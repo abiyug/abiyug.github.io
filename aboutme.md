@@ -46,7 +46,7 @@ I have three kids (two of them teenagers).  Until the age of 16 I grew up in <i>
 <strong> Education:</strong> 
   <ul style="list-style-type:disc">
    <li> Bachelor of Science in Electrical Engineering.</li> 
-   <li>Completed the Data Science specialization certificate course from <i>John Hopkins University Bloomberg School of public health</i> on <a href="https://www.coursera.org/specializations/jhu-data-science" target="_blank">Coursera</a> (04/2016).  For the capstone project, I've developed a Natural Language Processing (NLP) next word prediction algorithm for English language and generated n web <a href="http://rpubs.com/abiyu/wordPredict8" target="_blank">application</a>.</li>
+   <li>Completed the Data Science specialization certificate course from <i>John Hopkins University Bloomberg School of public health</i> on <a href="https://www.coursera.org/specializations/jhu-data-science" target="_blank">Coursera</a> (04/2016).  For the capstone project, I've developed a Natural Language Processing (NLP) next word prediction algorithm for English language and generated a web <a href="http://rpubs.com/abiyu/wordPredict8" target="_blank">application</a>.</li>
     <li>I was also one of the first few  Cisco certified Internetwork Experts.  Attained in 1999.</li>
  </ul>
 </p>
