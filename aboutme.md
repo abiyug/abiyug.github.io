@@ -18,7 +18,7 @@ The past 3-5 years, I've focus solely to data analytics and gained extensive exp
    <ul style="list-style-type:disc">
     <li> A refined work flow developed from up to date best practice experiences </li>
     <li> Wrangling unstructured and structured data</li> 
-    <li> Generate detailed and custome data Visualization utlizing Grammer of Graphincs packages.</li>
+    <li> Generate detailed and custom data Visualization utlizing Grammer of Graphincs packages.</li>
     <li> Spatial data analysis </li>
     <li> Generating HTML/Shiny dashboards </li>
     <li> Descriptive statistics generation from data </li> 
