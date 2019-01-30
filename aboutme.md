@@ -47,8 +47,8 @@ I have three kids (two of them teenagers).  Until the age of 16 I grew up in <i>
 <span class="fa fa-graduation-cap about-icon"></span>
 <strong> Education:</strong> <ul style="list-style-type:disc">
    <li> Bachelor of Science in Electrical Engineering.</li> 
-   <li>Completed the Data Science specialization certificate course from <i>John Hopkins University Bloomberg School of public health</i> on <a href="https://www.coursera.org/specializations/jhu-data-science" target="_blank">Coursera</a> (04/2016).  For the capstone project, I've developed a Natural Language Processing (NLP) next word prediction algorithm for English language and generated a web <a href="http://rpubs.com/abiyu/wordPredict8" target="_blank">application</a>.</li>
-    <li>I was also one of the first few  Cisco certified Internetwork Experts.  Attained in 1999.</li>
+   <li> Completed the Data Science specialization certificate course from <i>John Hopkins University Bloomberg School of public health</i> on <a href="https://www.coursera.org/specializations/jhu-data-science" target="_blank">Coursera</a> (04/2016).  For the capstone project, I've developed a Natural Language Processing (NLP) next word prediction algorithm for English language and generated a web <a href="http://rpubs.com/abiyu/wordPredict8" target="_blank">application</a>.</li>
+    <li> I was also one of the first few  Cisco certified Internetwork Experts.  Attained in 1999.</li>
  </ul>
 </p>
 
@@ -62,8 +62,9 @@ I played varsity soccer for my high school and college, earning athletic scholar
 <span class="fa fa-anchor about-icon"></span>
 <strong>Volunteer:</strong> 
  <ul style="list-style-type:disc">
-    <li>Over the years I've mentored several young professionals and students providing them training and internship opportunities.</li>
-     <li>Advise and help archtect Information Technology solutions to my church, to improve service delivery.</li>
+    <li> Over the years I've mentored several young professionals and students providing them training and internship opportunities.</li>
+    <li> Capital Area Food bank organizaton volunteer for DC metro.  
+    <li> Advise and help archtect Information Technology solutions to my church, to improve service delivery.</li>
    </ul> 
 </p>
 
