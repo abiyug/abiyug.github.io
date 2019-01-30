@@ -53,7 +53,7 @@ I have three kids (two of them teenagers).  Until the age of 16 I grew up in <i>
 <p class="about-text">
 <span class="fa fa-futbol-o about-icon"></span>
 <strong>Hobby:</strong> 
-I played varsity soccer for my high school and college. Earning athletic scholarship for my University.  I enjoy hiking and taking nature pictures, play a round of golf and long distance running. 
+I played varsity soccer for my high school and college, earning athletic scholarship for my University.  I enjoy hiking and taking nature pictures, play a round of golf and long distance running. 
 </p>
 
 <p class="about-text">
