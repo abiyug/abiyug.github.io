@@ -14,13 +14,14 @@ I am always on the lookout for interesting/challenging opportunities, so feel fr
 <span class="fa fa-globe about-icon"></span>
 <strong> Professional:</strong> 
 I have spent the lion share of my professional career developing, supporting, implementing and selling communication software and hardware solutions. I have seen the industry evolve from hardware driven to software driven, and now entering the data driven age with Internet of Things (IoT) leading the way.  
-The past 3-5 years, I've focus solely to data analytics and gained extensive experience in data wrangling, machine learning and generating publication ready data visualization for small and fairly large data sets. My data analysis experience include:<ul style="list-style-type:disc">
-   <li> A refined work flow developed from up to date best practice experiences </li>
-   <li> Wrangling unstructured and structured data</li> 
-   <li> Generate detailed and custome data Visualization utlizing Grammer of Graphincs packages.
-   <li> Spatial data analysis </li>
-   <li> Generating HTML/Shiny dashboards </li>
-   <li> Descriptive statistics generation from data </li> 
+The past 3-5 years, I've focus solely to data analytics and gained extensive experience in data wrangling, machine learning and generating publication ready data visualization for small and fairly large data sets. My data analysis experience include:
+   <ul style="list-style-type:disc">
+    <li> A refined work flow developed from up to date best practice experiences </li>
+    <li> Wrangling unstructured and structured data</li> 
+    <li> Generate detailed and custome data Visualization utlizing Grammer of Graphincs packages.</li>
+    <li> Spatial data analysis </li>
+    <li> Generating HTML/Shiny dashboards </li>
+    <li> Descriptive statistics generation from data </li> 
    </ul>
 </p>
 
