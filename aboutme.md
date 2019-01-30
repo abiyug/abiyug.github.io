@@ -5,7 +5,6 @@ subtitle: "Change your thoughts, you change your world."
 tags: [Abiyu Giday, Abiyu, ggplot, analytics, Data Science]
 ---
 I am a <i>Data Scientist</i> with domain expertise in communication networks.  I enjoy working with public/private organizations to extract actionable insight from their own data, build custom interactive dashboards for storyboard layouts presenting sequences of visualizations for meaningful understanding, and generate high quality dynamic reproducible reporting ready for dissemination. 
-
 I am always on the lookout for interesting/challenging opportunities, so feel free to contact me. At the bottom of every page are my contact details. 
 
 <a href ="https://www.linkedin.com/in/abiyugiday">My Resume</a>  
@@ -15,8 +14,7 @@ I am always on the lookout for interesting/challenging opportunities, so feel fr
 <span class="fa fa-globe about-icon"></span>
 <strong> Professional:</strong> 
 I have spent the lion share of my professional career developing, supporting, implementing and selling communication software and hardware solutions. I have seen the industry evolve from hardware driven to software driven, and now entering the data driven age with Internet of Things (IoT) leading the way.  
-The past 3-5 years, I've focus solely to data analytics and gained extensive experience in data wrangling, machine learning and generating publication ready data visualization for small and fairly large data sets. My data analysis experience include:
- <ul style="list-style-type:disc">
+The past 3-5 years, I've focus solely to data analytics and gained extensive experience in data wrangling, machine learning and generating publication ready data visualization for small and fairly large data sets. My data analysis experience include:<ul style="list-style-type:disc">
    <li> A refined work flow developed from up to date best practice experiences </li>
    <li> Wrangling unstructured and structured data</li> 
    <li> Spatial data analysis </li>
@@ -40,7 +38,7 @@ I had  the privilege of contributing to one of the earliest (2007-2010) commerci
 <p class="about-text">
 <span class="fa fa-male about-icon"></span>
 <strong> Personal:</strong> 
-I have three kids (two of them teenagers).  Until the age of 16 I grew up in <i>Addis Abeba, Ethiopia</i>. Migrated to USA as a teenager where I completed my high school and college education in <i>Washington, DC</i>. Proudly claim both Addis and DC as my hometown. I now live in Fairfax County, Virginia. Aa suburb of Washington DC. 
+I have three kids (two of them teenagers).  Until the age of 16 I grew up in <i>Addis Abeba, Ethiopia</i>. Migrated to USA as a teenager where I completed my high school and college education in <i>Washington, DC</i>. Proudly claim both Addis and DC as my hometown. I now live in Fairfax County, Virginia. A suburb of Washington DC. 
 </p>
 
 <p class="about-text">
