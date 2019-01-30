@@ -17,6 +17,7 @@ I have spent the lion share of my professional career developing, supporting, im
 The past 3-5 years, I've focus solely to data analytics and gained extensive experience in data wrangling, machine learning and generating publication ready data visualization for small and fairly large data sets. My data analysis experience include:<ul style="list-style-type:disc">
    <li> A refined work flow developed from up to date best practice experiences </li>
    <li> Wrangling unstructured and structured data</li> 
+   <li> Generate detailed and custome data Visualization utlizing Grammer of Graphincs packages.
    <li> Spatial data analysis </li>
    <li> Generating HTML/Shiny dashboards </li>
    <li> Descriptive statistics generation from data </li> 
