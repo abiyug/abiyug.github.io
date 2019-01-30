@@ -63,7 +63,7 @@ I played varsity soccer for my high school and college, earning athletic scholar
 <strong>Volunteer:</strong> 
  <ul style="list-style-type:disc">
     <li> Over the years I've mentored several young professionals and students providing them training and internship opportunities.</li>
-    <li> Capital Area Food bank organizaton volunteer for DC metro.  
+    <li> Capital Area Food bank organizaton volunteer for DC metro.</li>  
     <li> Advise and help archtect Information Technology solutions to my church, to improve service delivery.</li>
    </ul> 
 </p>
