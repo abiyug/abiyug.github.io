@@ -71,7 +71,8 @@ url-pretty: "abiyug.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "abiyuggithubio"
+#disqus: "abiyuggithubio"
+disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-56792849-2"
@@ -81,9 +82,12 @@ google_analytics: "UA-56792849-2"
 # Output options (more information on Jekyll's site)
 timezone: "America/Vancouver"
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge                     # pygments
 permalink: /:year-:month-:day-:title
 paginate: 5
+
+kramdown:
+input: GFM
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
@@ -100,6 +104,7 @@ defaults:
       path: "" # all files
     values:
       layout: "page"
+      show-avatar: true
 
 # Exclude these files from production site
 exclude:
