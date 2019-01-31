@@ -34,7 +34,7 @@ I was fortunate to be part of a couple of startup organizations. My last company
 <p class="about-text">
 <span class="fa fa-flask about-icon"></span>
 <strong> Data Analytics:</strong> 
-I had  the privilege of contributing to one of the earliest (2007-2010) commercial data analytics product for a fortune 50 company that rolled out Intelligence Platform Analysis to help  customers progress to higher level of operational efficiency.    The product, which was fueled purely by data,  collected a set of macro level indicators and generated a disruption index, like FICO score, that measured customers operational effectiveness and provides benchmark comparisons for products, peers, and industry segment.  Keep an eye on my blog because I certainly hope to share some of my software codes and, solutions to real problems as well as web based products I have developed in the past year and those I will be developing in the coming months and years. I will also share some tidbits that maybe helpful to others.
+I had  the privilege of contributing to one of the earliest (2007-2010) commercial data analytics product for a fortune 50 company that rolled out Intelligence Platform Analysis to help  customers progress to higher level of operational efficiency.    The product, which was fueled purely by data,  collected a set of macro level indicators and generated a disruption index, like FICO score, that measured customers operational effectiveness and provides benchmark comparisons for products, peers, and industry segment.  
 </p>
 
 <p class="about-text">
